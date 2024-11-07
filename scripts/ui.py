@@ -3,9 +3,6 @@ import gradio as gr
 from modules import script_callbacks, scripts
 import os
 import requests
-import json
-import subprocess
-import shlex
 import base64
 import io
 
